@@ -5,7 +5,7 @@ galaxy_info:
   company: Goozbach Infrastucture Solutions LLC
   license: GPLv2 or MIT
   min_ansible_version: 1.9
-  categories:
+  galaxy_tags:
     - packaging
   platforms:
     - name: EL
